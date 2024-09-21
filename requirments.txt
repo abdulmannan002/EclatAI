@@ -1,0 +1,14 @@
+streamlit
+tensorflow
+scikit-learn
+joblib
+numpy
+matplotlib
+Pillow
+fpdf
+opencv-python-headless
+opencv-contrib-python
+opencv-python
+plotly
+shap == 0.46.0
+reportlab
